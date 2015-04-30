@@ -1,0 +1,21 @@
+{
+  "name": "girth.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/connyay/girth.js",
+  "authors": [
+    "Connor Hindley <connor@redhat.com>"
+  ],
+  "description": "Sometimes length isn't enough",
+  "main": "index.js",
+  "keywords": [
+    "length"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
