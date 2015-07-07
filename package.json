@@ -1,0 +1,24 @@
+{
+  "name": "girth.js",
+  "version": "1.0.0",
+  "description": "Sometimes length isn't enough",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/connyay/girth.js.git"
+  },
+  "keywords": [
+    "array",
+    "girth",
+    "length"
+  ],
+  "author": "Connor Hindley <conn.hindley@gmail.com> (http://connorhindley.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/connyay/girth.js/issues"
+  },
+  "homepage": "https://github.com/connyay/girth.js#readme"
+}
