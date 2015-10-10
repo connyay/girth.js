@@ -1,0 +1,18 @@
+{
+    "preset": "crockford",
+	"disallowKeywords": [
+		"with"
+    ],
+    "requireLineFeedAtFileEnd": false,
+    "requireVarDeclFirst": false,
+    "requireBlocksOnNewline": false,
+    "requireSpaceBetweenArguments": true,
+    "requireSpacesInForStatement": true,
+    "validateParameterSeparator": ", ",
+    "disallowNewlineBeforeBlockStatements": true,
+    "requireSpaceBeforeBlockStatements": 1,
+    "disallowSpacesInNamedFunctionExpression": {
+        "beforeOpeningRoundBrace": true
+    },
+	"disallowEmptyBlocks": true
+}

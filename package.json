@@ -4,7 +4,7 @@
   "description": "Sometimes length isn't enough",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha test.js"
   },
   "repository": {
     "type": "git",
@@ -20,5 +20,15 @@
   "bugs": {
     "url": "https://github.com/connyay/girth.js/issues"
   },
-  "homepage": "https://github.com/connyay/girth.js#readme"
+  "homepage": "https://github.com/connyay/girth.js#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-git": "^1.5.0",
+    "gulp-install": "^0.6.0",
+    "gulp-jscs": "^3.0.1",
+    "gulp-jshint": "^1.11.2",
+    "gulp-mocha": "^2.1.3",
+    "mocha": "^2.3.3",
+    "should": "^7.1.0"
+  }
 }
